@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Assign06 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Assign06 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
